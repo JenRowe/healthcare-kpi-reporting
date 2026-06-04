@@ -1,6 +1,8 @@
 # Healthcare KPI Reporting Project
 
-Built healthcare KPI reporting project using Databricks SQL, notebook workflows, and Power BI reporting dashboard.
+Built healthcare KPI reporting project using Databricks SQL, notebook workflows, and Power BI reporting dashboards.
+
+This project analyzes CMS hospital readmissions data to evaluate hospital performance benchmarking, reporting quality, and Excess Readmission Ratio (ERR) variation across major readmission measures.
 
 ## Project Overview
 
@@ -92,6 +94,15 @@ Prepared structured datasets suitable for dashboard reporting and downstream bus
 Example:
 
 ![Dashboard Overview](Healthcare-kpi-reporting/images/dashboard_overview.jpg)
+
+
+---
+
+## Key Insights
+
+- Most hospitals clustered near the national ERR benchmark of 1.0
+- Reporting suppression logic impacted a small subset of facilities
+- Benchmark variation existed across multiple states and reporting measures
 
 
 ---
