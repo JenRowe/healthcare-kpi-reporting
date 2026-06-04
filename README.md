@@ -91,7 +91,7 @@ Prepared structured datasets suitable for dashboard reporting and downstream bus
 
 Example:
 
-![Dashboard Overview](images/dashboard_overview.jpg)
+![Dashboard Overview](Healthcare-kpi-reporting/images/dashboard_overview.jpg)
 
 
 ---
